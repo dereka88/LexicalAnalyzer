@@ -1,4 +1,4 @@
-// CSCI4200: Project 1
+// Lexical Analyzer Program
 // Author: Derek Alvarez
 package stringTokenizer;
 
